@@ -1,3 +1,5 @@
 # krita temp file
 *.*~
 *.*-autosave.*
+_generated/
+_site/
